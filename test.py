@@ -13,6 +13,9 @@ def ist_primzahl(n: int) -> bool:
 	return True
 
 
+
+
+
 def erste_primzahlen(anzahl: int) -> list[int]:
 	primzahlen: list[int] = []
 	kandidat = 2
