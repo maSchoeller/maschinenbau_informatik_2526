@@ -1,4 +1,6 @@
-sfgf
-dgs
-gs
-dgds
+print("Hallo Welt", "Marvin", "Vorlesung", "Auto",sep=" | ")
+print("----------", "------", "---------", "----",sep=" | ")
+print("Hallo Welt", "Marvin", "Vorlesung", "Auto",sep=" | ")
+print("Hallo Welt", "Marvin", "Vorlesung", "Auto",sep=" | ")
+print("Hallo Welt", "Marvin", "Vorlesung", "Auto",sep=" | ")
+# print(" Marvin")
